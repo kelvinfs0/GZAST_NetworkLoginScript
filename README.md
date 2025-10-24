@@ -1,2 +1,6 @@
 # GZAST_NetworkLoginScript
 基于Python3的广州应用科技学院(肇庆)校园网认证脚本
+Time 2025.10.22
+
+因校园网每日到认证开放时间后需重新进行web登录，OpenwrtAutoLogin脚本可用于安装了openwrt的软/硬路由的自动认证。
+注意：在Openwrt脚本上传前，要先在OpenwrtAutoLogin文件中输入校园网用户名和密码。
